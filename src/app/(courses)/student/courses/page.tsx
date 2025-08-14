@@ -1,0 +1,7 @@
+export default async function Courses() {
+    return (
+        <div className="text-5xl flex justify-center items-center m-auto">
+            <h1>Course Page</h1>
+        </div>
+    )
+}
